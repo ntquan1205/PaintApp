@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+<<<<<<< HEAD
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.pic = new System.Windows.Forms.PictureBox();
@@ -232,6 +233,15 @@
         private System.Windows.Forms.Button btn_fill;
         private System.Windows.Forms.Button btn_line;
         private System.Windows.Forms.Button btn_rect;
+=======
+            this.components = new System.ComponentModel.Container();
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Text = "Form1";
+        }
+
+        #endregion
+>>>>>>> e2036e6f9f7be8f6c9bef7dd773f1484e6883f48
     }
 }
 

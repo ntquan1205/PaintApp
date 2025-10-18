@@ -16,10 +16,13 @@ namespace PaintApp
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
 
         private void Form1_Load(object sender, EventArgs e)
         {
 
         }
+=======
+>>>>>>> e2036e6f9f7be8f6c9bef7dd773f1484e6883f48
     }
 }
